@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jv-morim
 - 👀 I’m interested in Web Development and IA projects
-- 🌱 I’m currently learning about Web Development (Full-Stack)
+- 🌱 I’m currently learning about LangChain / Python (LLMs Agents)
 - 💞️ I’m looking to collaborate on all projects of I a can
 - 📫 How to reach me? In my E-mail: jajvitor@gmail.com - I wait your contact :)
 - 😄 Pronouns: He, his
